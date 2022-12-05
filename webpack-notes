@@ -1,0 +1,9 @@
+intro to webpack
+
+1. Implement webpack in a new application.
+
+2. Use webpack to bundle ES6 modules
+
+3. Optimize html, css, and js output for quick download
+
+4. Use Loaders to handle Sass precompiling and Babel transpiling
